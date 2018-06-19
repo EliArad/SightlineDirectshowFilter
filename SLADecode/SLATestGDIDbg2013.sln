@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SLADecode", "SLADecode.vcxproj", "{695F3BEA-A24C-425A-BE51-C3DE8B5252A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SLATestGDI", "SLATestGDI\SLATestGDI.vcxproj", "{B583CC1E-0BBE-4E76-8BEB-096264897036}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SLAVideoGrid", "..\CmdCtrlExamples\SLAVideoGrid\SLAVideoGrid.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "slaCommand", "..\CmdCtrlExamples\slaCommand\slaCommand.vcxproj", "{DFC01922-51F8-4426-ACAB-1F6EDFD8B4B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695F3BEA-A24C-425A-BE51-C3DE8B5252A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{695F3BEA-A24C-425A-BE51-C3DE8B5252A5}.Debug|Win32.Build.0 = Debug|Win32
+		{695F3BEA-A24C-425A-BE51-C3DE8B5252A5}.Release|Win32.ActiveCfg = Release|Win32
+		{695F3BEA-A24C-425A-BE51-C3DE8B5252A5}.Release|Win32.Build.0 = Release|Win32
+		{B583CC1E-0BBE-4E76-8BEB-096264897036}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B583CC1E-0BBE-4E76-8BEB-096264897036}.Debug|Win32.Build.0 = Debug|Win32
+		{B583CC1E-0BBE-4E76-8BEB-096264897036}.Release|Win32.ActiveCfg = Release|Win32
+		{B583CC1E-0BBE-4E76-8BEB-096264897036}.Release|Win32.Build.0 = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.Build.0 = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.ActiveCfg = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.Build.0 = Release|Win32
+		{DFC01922-51F8-4426-ACAB-1F6EDFD8B4B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFC01922-51F8-4426-ACAB-1F6EDFD8B4B3}.Debug|Win32.Build.0 = Debug|Win32
+		{DFC01922-51F8-4426-ACAB-1F6EDFD8B4B3}.Release|Win32.ActiveCfg = Release|Win32
+		{DFC01922-51F8-4426-ACAB-1F6EDFD8B4B3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
